@@ -3,5 +3,15 @@ Proiectul de licenta
 
 ### Problems
 
-to resolve unnecessary unrelated histories errors:
-git pull origin master --allow-unrelated-histories
+source Scripts/activate
+
+
+### GitHub 
+
+git add .
+
+git commit -m ""
+
+git push -u origin master
+
+git pull origin master
