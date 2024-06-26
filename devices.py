@@ -21,8 +21,3 @@ def record():
     finally:
         recorder.delete()
 
-# def main():
-#     record
-
-# if __name__=="__main__":
-#     main()

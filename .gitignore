@@ -15,3 +15,7 @@ licenta/
 # Ignore IDE configuration files
 .vscode/
 .idea/
+
+# Ignore audio files
+.wav
+.mp3
